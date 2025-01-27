@@ -1,9 +1,0 @@
-.DS_Store
-.idea/
-venv/
-.venv/
-__pycache__/
-*.pyc
-migrations/
-/TODO.txt
-/instance/logs.db
