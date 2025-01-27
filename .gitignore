@@ -1,0 +1,5 @@
+/instance/logs.db
+/migrations/
+/.venv/
+/TODO.txt
+.idea/
